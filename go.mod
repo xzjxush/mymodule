@@ -1,1 +1,1 @@
-module xzjxush/mymodule
+module github.com/xzjxush/mymodule
